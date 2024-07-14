@@ -1,0 +1,4 @@
+if _G.AutoRollFast == true then
+while true do
+game.Players.LocalPlayer.PlayerValues.FastRollEnabled.Value = true
+wait() end end
